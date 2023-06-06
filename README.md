@@ -23,4 +23,7 @@ Talk to me about:
 
 ## Growth Mindset  
 
-Growth Mindset, in short, is 
+Growth Mindset, in short, is a personal commitment to choose attitudes that bolsters personal growth and development rather than limiting it. This include:  
+1. Viewing obstacles as learning opportunities 
+2. Participating and communicating wherever possible
+3. Being inspired by the success of others
