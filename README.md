@@ -33,3 +33,5 @@ Growth Mindset, in short, is a personal commitment to choose attitudes that bols
 ## look at my stuff
 
 [Here it is! Stuff!](https://github.com/ClownMaidLifestyle?tab=repositories)
+
+![web page banner reading "I also like clowns" "it's not weird" with four clowns surrounding](./images/banner.png)
