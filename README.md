@@ -27,3 +27,9 @@ Growth Mindset, in short, is a personal commitment to choose attitudes that bols
 1. Viewing obstacles as learning opportunities 
 2. Participating and communicating wherever possible
 3. Being inspired by the success of others
+
+***
+
+## look at my stuff
+
+[Here it is! Stuff!](https://github.com/ClownMaidLifestyle?tab=repositories)
