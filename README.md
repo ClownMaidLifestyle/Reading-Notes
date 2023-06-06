@@ -15,7 +15,9 @@ Experience with:
 
 Talk to me about:  
 - ![complex blue and white banner with white circle in the centre](./images/flag1.webp)![White and Green banner with minimalist square emblem and green top](./images/flag2.webp)  **My Minecraft server!**  ![white cross on red background banner](./images/flag3.webp)![minecraft sunset gradient banner with flower charge in center](./images/flag4.webp)
-- What I'm reading right now (Wuthering Heights)
+- What I'm reading right now
+  - Wuthering Heights
+  - Revolution in Rojava (when I get around to it)
 - Tabletop and Board games
 - Cooking and Baking
 
